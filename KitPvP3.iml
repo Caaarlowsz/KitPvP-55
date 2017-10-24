@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Users/Bas/Desktop/Server/plugins/EssentialsX-2.0.1.jar" />
+    <libelement value="file://C:/Users/Bas/Desktop/Server/plugins/Vault.jar" />
+    <libelement value="file://C:/Users/Bas/Desktop/Server/spigot-1.8.jar" />
+    <libelement value="file://C:/Users/Bas/Desktop/Server/plugins/PermissionsEx-1.23.4.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <userChosenTypes>
+          <map>
+            <entry key="PAPER" value="false" />
+            <entry key="SPIGOT" value="true" />
+            <entry key="BUKKIT" value="false" />
+            <entry key="FORGE" value="false" />
+            <entry key="SPONGE" value="false" />
+            <entry key="NEPTUNE" value="false" />
+            <entry key="CANARY" value="false" />
+            <entry key="BUNGEECORD" value="false" />
+            <entry key="LITELOADER" value="false" />
+            <entry key="MIXIN" value="false" />
+            <entry key="MCP" value="false" />
+          </map>
+        </userChosenTypes>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="EssentialsX-2.0.1.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Bas/Desktop/Server/plugins/EssentialsX-2.0.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Vault.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Bas/Desktop/Server/plugins/Vault.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spigot-1.8.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Bas/Desktop/Server/spigot-1.8.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PermissionsEx-1.23.4.jar">
+        <CLASSES>
+          <root url="file://C:/Users/Bas/Desktop/Server/plugins/PermissionsEx-1.23.4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Spigot-1.12.1" level="project" />
+    <orderEntry type="library" name="Vault" level="project" />
+  </component>
+</module>

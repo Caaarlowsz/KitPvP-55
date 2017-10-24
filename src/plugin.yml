@@ -1,0 +1,12 @@
+name: KitPvP
+main: kitpvp.Main
+version: 1.0
+description: This is an easy to use GUI based KitPvP-plugin.
+depend: [Vault]
+commands:
+   togglechat:
+        description: Turn the chat on and off.
+        aliases: [tg]
+   kitpvp:
+        description: This is the main kitpvp command.
+        aliases: [kp]
