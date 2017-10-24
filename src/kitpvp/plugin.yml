@@ -1,8 +1,7 @@
 name: KitPvP
 main: KitPvP.Main
-version: 1.1.0
-author: Bazzlock
-description: This is an easy to use GUI based KitPvP-plugin made by Bazzlock.
+version: 1.0
+description: This is an easy to use GUI based KitPvP-plugin.
 depend: [Vault]
 
 
